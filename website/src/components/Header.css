@@ -1,0 +1,21 @@
+.nav ul li a{
+    color: red;
+  
+}
+  
+.nav ul{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    gap: 2vw;
+
+}
+  
+.nav ul li{
+    list-style: none;
+
+}
+
+.nav ul li a{
+    text-decoration: none;
+}
